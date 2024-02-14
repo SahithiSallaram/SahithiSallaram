@@ -1,10 +1,9 @@
 # Sahithi Sallaram 👩
 
+📫 sah.sallaram@gmail.com
+
 
 <div id="badges">
-  <a href="mailto:sah.sallaram@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
   <a href=https://www.linkedin.com/in/sahithi-sallaram-397410105/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
@@ -37,11 +36,15 @@ Systems Engineer at Infosys Limited, Hyderabad, India: Implemented Salesforce co
 
 Master of Science in Computer Science from University of Massachusetts, Lowell, MA.
 
-Bachelor of Technology in Computer Science and Engineering from Institute of Aeronautical Engineering, Hyderabad, India, with coursework in algorithms, data structures, database and object-oriented programming.
+Bachelor of Technology in Computer Science and Engineering from Institute of Aeronautical Engineering, Hyderabad, India.
 
-🏆 Certifications: Salesforce Certified Administrator and Salesforce Certified Platform Developer 1.
+🏆 Certifications: 
+
+Salesforce Certified Administrator <br>
+Salesforce Certified Platform Developer 1
 
 💻 Technical Skills: Proficient in Python, SQL, Java, Tableau, HTML, CSS, and more. Experienced with Salesforce, Git, Veeva and CRM systems.
 
-🔍 Academic Projects: Developed models for pneumonia detection using neural networks and determining Quora question pairs similarity using machine learning.
+🔍 Academic Projects: 
+Developed models for pneumonia detection using neural networks and determining Quora question pairs similarity using machine learning.
 
