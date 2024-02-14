@@ -1,13 +1,17 @@
 # Sahithi Sallaram 👩
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?&style=for-the-badge&logo=gmail)](mailto:sah.sallaram@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/sahithi-sallaram-397410105![image](https://github.com/sahsallaram/Sahithi-Sallaram/assets/112202881/cabdec2f-f7ea-48ca-a7a4-7267dfe09b29)
-) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)]([Your-GitHub-Profile-URL](https://github.com/sahsallaram))
 
 
-
-
-
-
-
+<div id="badges">
+  <a href="mailto:sah.sallaram@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href=https://www.linkedin.com/in/sahithi-sallaram-397410105/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href=https://github.com/sahsallaram>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="Github Profile"/>
+  </a>
+</div>
 
 👋 Hello there! I'm a continuously evolving and adaptable professional with a deep-seated passion for Salesforce development and data analytics. I find immense joy and satisfaction in the continuous pursuit of knowledge, always seeking to expand my skills and stay current of the latest advancements in technology. My journey as a learner fuels my dedication to optimizing processes and making impactful contributions to organizational success through Salesforce solutions and data-driven insights.
 
