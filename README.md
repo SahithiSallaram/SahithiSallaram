@@ -80,6 +80,9 @@ Salesforce Certified Platform Developer 1
 ![MS Office](https://img.shields.io/badge/MS%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-red?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-purple?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-blue?style=for-the-badge&logo=salesforce&logoColor=white)
+
 
 
 
